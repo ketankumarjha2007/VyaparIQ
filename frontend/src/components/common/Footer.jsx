@@ -122,7 +122,7 @@ function Footer() {
           <div className="footer-socials">
 
             <a
-              href="#"
+              href="https://github.com/ketankumarjha2007/"
               aria-label="GitHub"
               title="GitHub"
             >
@@ -130,7 +130,7 @@ function Footer() {
             </a>
 
             <a
-              href="#"
+              href="https://www.linkedin.com/in/ketan-kumar-jha-499064305/"
               aria-label="LinkedIn"
               title="LinkedIn"
             >
